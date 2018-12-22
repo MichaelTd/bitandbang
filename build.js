@@ -15,16 +15,16 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('               Michaelt'),
-  handle: chalk.white('tdm-card'),
-  work: chalk.white('freelancer@home.net'),
-  opensource: chalk.white('Gentoo Linux advocate. ') + chalk.green('⬢'),
+  name: chalk.white('               Michael Tsouchlarakis'),
+  handle: chalk.white('michaeltd'),
+  work: chalk.white('freelancer@wherever.net'),
+  opensource: chalk.white('Gentoo Linux advocate.'),
   twitter: chalk.gray('https://') + chalk.white('twitter.com/') + chalk.magenta('tsouchlarakismd'),
   npm: chalk.gray('https://') + chalk.white('npmjs.com/') + chalk.red('~michaeltd'),
   github: chalk.gray('https://') + chalk.white('github.com/') + chalk.green('michaeltd'),
   linkedin: chalk.gray('https://') + chalk.white('linkedin.com/in/') + chalk.blue('michael-tsouchlarakis'),
   web: chalk.grey('https://') + chalk.white('michael.heliohost.org/'),
-  npx: chalk.red('npx') + ' ' + chalk.green('tdm') + chalk.white('-') + chalk.blue('card'),
+  npx: chalk.red('npx') + ' ' + chalk.blue('michael') + chalk.green('t') + chalk.red('d'),
   labelWork: chalk.white.bold('       Work:'),
   labelOpenSource: chalk.white.bold('Open Source:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
