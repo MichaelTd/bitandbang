@@ -1,6 +1,6 @@
 {
   "name": "tdm-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A buisiness card from Tierney Cyren (@bitandbang) for TDM (@tsouchlarakismd)",
   "main": "/bin/card.js",
   "bin": {

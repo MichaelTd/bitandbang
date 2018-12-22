@@ -16,7 +16,7 @@ const options = {
 // Text + chalk definitions
 const data = {
   name: chalk.white('               Michaelt'),
-  handle: chalk.white('tdm card'),
+  handle: chalk.white('tdm-card'),
   work: chalk.white('freelancer@home.net'),
   opensource: chalk.white('Gentoo Linux advocate. ') + chalk.green('⬢'),
   twitter: chalk.gray('https://') + chalk.white('twitter.com/') + chalk.magenta('tsouchlarakismd'),
@@ -24,7 +24,7 @@ const data = {
   github: chalk.gray('https://') + chalk.white('github.com/') + chalk.green('michaeltd'),
   linkedin: chalk.gray('https://') + chalk.white('linkedin.com/in/') + chalk.blue('michael-tsouchlarakis'),
   web: chalk.grey('https://') + chalk.white('michael.heliohost.org/'),
-  npx: chalk.red('npm') + ' ' + chalk.green('run-script') + ' ' + chalk.blue('card'),
+  npx: chalk.red('npx') + ' ' + chalk.green('tdm') + chalk.white('-') + chalk.blue('card'),
   labelWork: chalk.white.bold('       Work:'),
   labelOpenSource: chalk.white.bold('Open Source:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
