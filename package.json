@@ -1,6 +1,6 @@
 {
   "name": "michaeltd",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A buisiness card from Tierney Cyren (@bitandbang) for TDM (@tsouchlarakismd)",
   "main": "/bin/card.js",
   "bin": {
