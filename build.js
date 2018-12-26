@@ -18,7 +18,7 @@ const data = {
   name: chalk.white('            Michael Tsouchlarakis'),
   handle: chalk.white('michaeltd'),
   work: chalk.white('freelancer@wherever.net'),
-  opensource: chalk.white('Gentoo Linux advocate.'),
+  opensource: chalk.white('Gentoo Linux avocado.'),
   twitter: chalk.gray('https://') + chalk.white('twitter.com/') + chalk.magenta('tsouchlarakismd'),
   npm: chalk.gray('https://') + chalk.white('npmjs.com/') + chalk.red('~michaeltd'),
   github: chalk.gray('https://') + chalk.white('github.com/') + chalk.green('michaeltd'),
