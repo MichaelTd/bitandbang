@@ -1,7 +1,7 @@
 {
   "name": "michaeltd",
   "version": "1.0.4",
-  "description": "A buisiness card from Tierney Cyren (@bitandbang) for TDM (@tsouchlarakismd)",
+  "description": "A buisiness card from Tierney Cyren (@bitandbang)",
   "main": "/bin/card.js",
   "bin": {
     "npm-card": "./bin/card.js"
