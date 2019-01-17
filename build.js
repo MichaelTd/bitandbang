@@ -22,7 +22,7 @@ const data = {
   twitter: chalk.gray('https://') + chalk.white('twitter.com/') + chalk.magenta('tsouchlarakismd'),
   npm: chalk.gray('https://') + chalk.white('npmjs.com/') + chalk.red('~michaeltd'),
   github: chalk.gray('https://') + chalk.white('github.com/') + chalk.green('michaeltd'),
-  linkedin: chalk.gray('https://') + chalk.white('linkedin.com/in/') + chalk.blue('michael-tsouchlarakis'),
+  linkedin: chalk.gray('https://') + chalk.white('linkedin.com/in/') + chalk.blue('michaeltd'),
   web: chalk.grey('https://') + chalk.yellow('michael') + chalk.white('.heliohost.org/'),
   npx: chalk.red('npx') + ' ' + chalk.white('michael') + chalk.green('t') + chalk.red('d'),
   labelWork: chalk.white.bold('       Work:'),
