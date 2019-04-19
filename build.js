@@ -23,7 +23,7 @@ const data = {
   npm: chalk.gray('https://') + chalk.white('npmjs.com/') + chalk.red('~michaeltd'),
   github: chalk.gray('https://') + chalk.white('github.com/') + chalk.green('michaeltd'),
   linkedin: chalk.gray('https://') + chalk.white('linkedin.com/in/') + chalk.blue('michaeltd'),
-  web: chalk.grey('https://') + chalk.yellow('michael') + chalk.white('.heliohost.org/'),
+  web: chalk.grey('https://') + chalk.yellow('michaeltd') + chalk.white('.netlify.com/'),
   npx: chalk.red('npx') + ' ' + chalk.white('michael') + chalk.green('t') + chalk.red('d'),
   labelWork: chalk.white.bold('       Work:'),
   labelOpenSource: chalk.white.bold('Open Source:'),
