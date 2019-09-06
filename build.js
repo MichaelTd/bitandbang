@@ -15,24 +15,24 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('            Michael Tsouchlarakis'),
-  handle: chalk.white('michaeltd'),
-  work: chalk.white('freelancer@wherever.net'),
-  opensource: chalk.white('Gentoo Linux avocado.'),
-  twitter: chalk.gray('https://') + chalk.white('twitter.com/') + chalk.magenta('tsouchlarakismd'),
-  npm: chalk.gray('https://') + chalk.white('npmjs.com/') + chalk.red('~michaeltd'),
-  github: chalk.gray('https://') + chalk.white('github.com/') + chalk.green('michaeltd'),
-  linkedin: chalk.gray('https://') + chalk.white('linkedin.com/in/') + chalk.blue('michaeltd'),
-  web: chalk.grey('https://') + chalk.yellow('michaeltd') + chalk.white('.netlify.com/'),
-  npx: chalk.red('npx') + ' ' + chalk.white('michael') + chalk.green('t') + chalk.red('d'),
-  labelWork: chalk.white.bold('       Work:'),
-  labelOpenSource: chalk.white.bold('Open Source:'),
-  labelTwitter: chalk.white.bold('    Twitter:'),
-  labelnpm: chalk.white.bold('        npm:'),
-  labelGitHub: chalk.white.bold('     GitHub:'),
-  labelLinkedIn: chalk.white.bold('   LinkedIn:'),
-  labelWeb: chalk.white.bold('        Web:'),
-  labelCard: chalk.white.bold('       Card:')
+    name: chalk.white('            Michael Tsouchlarakis'),
+    handle: chalk.white('michaeltd'),
+    work: chalk.white('tsouchlarakis@gmail.com'),
+    opensource: chalk.white('Gentoo Linux avocado.'),
+    twitter: chalk.gray('https://') + chalk.white('twitter.com/') + chalk.magenta('tsouchlarakismd'),
+    npm: chalk.gray('https://') + chalk.white('npmjs.com/') + chalk.red('~michaeltd'),
+    github: chalk.gray('https://') + chalk.white('github.com/') + chalk.green('michaeltd'),
+    linkedin: chalk.gray('https://') + chalk.white('linkedin.com/in/') + chalk.blue('michaeltd'),
+    web: chalk.grey('https://') + chalk.yellow('michaeltd') + chalk.white('.netlify.com/'),
+    npx: chalk.red('npx') + ' ' + chalk.white('michael') + chalk.green('t') + chalk.red('d'),
+    labelWork: chalk.white.bold('       Work:'),
+    labelOpenSource: chalk.white.bold('Open Source:'),
+    labelTwitter: chalk.white.bold('    Twitter:'),
+    labelnpm: chalk.white.bold('        npm:'),
+    labelGitHub: chalk.white.bold('     GitHub:'),
+    labelLinkedIn: chalk.white.bold('   LinkedIn:'),
+    labelWeb: chalk.white.bold('        Web:'),
+    labelCard: chalk.white.bold('       Card:')
 }
 
 // Actual strings we're going to output
