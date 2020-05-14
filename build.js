@@ -15,7 +15,7 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-    name: chalk.white('            Michael Tsouchlarakis'),
+    name: chalk.white('      Michael Tsouchlarakis'),
     handle: chalk.white('michaeltd'),
     work: chalk.white('tsouchlarakis@gmail.com'),
     opensource: chalk.white('Gentoo Linux avocado.'),
@@ -55,12 +55,10 @@ const output = heading + // data.name + data.handle
                newline + newline + // Add one whole blank line
                working + newline + // data.labelWork + data.work
                opensourcing + newline + newline + // data.labelOpenSource + data.opensource
-               twittering + newline + // data.labelTwitter + data.twitter
-               npming + newline + // data.labelnpm + data.npm
+               webing + newline + // data.labelWeb + data.web
                gitlabing + newline + // data.labelGitLab + data.github
-               githubing + newline + // data.labelGitHub + data.github
-               linkedining + newline + // data.labelLinkedIn + data.linkedin
-               webing + newline + newline + // data.labelWeb + data.web
+               npming + newline + // data.labelnpm + data.npm
+               twittering + newline + newline + // data.labelTwitter + data.twitter
                carding // data.labelCard + data.npx
 
 fs.writeFileSync(path.join(__dirname, 'bin/output'), chalk.green(boxen(output, options)))
