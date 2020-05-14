@@ -22,6 +22,7 @@ const data = {
     twitter: chalk.gray('https://') + chalk.white('twitter.com/') + chalk.magenta('tsouchlarakismd'),
     npm: chalk.gray('https://') + chalk.white('npmjs.com/') + chalk.red('~michaeltd'),
     github: chalk.gray('https://') + chalk.white('github.com/') + chalk.green('michaeltd'),
+    gitlab: chalk.gray('https://') + chalk.white('gitlab.com/') + chalk.green('michaeltd'),
     linkedin: chalk.gray('https://') + chalk.white('linkedin.com/in/') + chalk.blue('michaeltd'),
     web: chalk.grey('https://') + chalk.yellow('michaeltd') + chalk.white('.netlify.com/'),
     npx: chalk.red('npx') + ' ' + chalk.white('michael') + chalk.green('t') + chalk.red('d'),
@@ -30,6 +31,7 @@ const data = {
     labelTwitter: chalk.white.bold('    Twitter:'),
     labelnpm: chalk.white.bold('        npm:'),
     labelGitHub: chalk.white.bold('     GitHub:'),
+    labelGitLab: chalk.white.bold('     GitLab:'),
     labelLinkedIn: chalk.white.bold('   LinkedIn:'),
     labelWeb: chalk.white.bold('        Web:'),
     labelCard: chalk.white.bold('       Card:')
@@ -43,6 +45,7 @@ const opensourcing = `${data.labelOpenSource}  ${data.opensource}`
 const twittering = `${data.labelTwitter}  ${data.twitter}`
 const npming = `${data.labelnpm}  ${data.npm}`
 const githubing = `${data.labelGitHub}  ${data.github}`
+const gitlabing = `${data.labelGitLab}  ${data.gitlab}`
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
 const webing = `${data.labelWeb}  ${data.web}`
 const carding = `${data.labelCard}  ${data.npx}`
@@ -54,6 +57,7 @@ const output = heading + // data.name + data.handle
                opensourcing + newline + newline + // data.labelOpenSource + data.opensource
                twittering + newline + // data.labelTwitter + data.twitter
                npming + newline + // data.labelnpm + data.npm
+               gitlabing + newline + // data.labelGitLab + data.github
                githubing + newline + // data.labelGitHub + data.github
                linkedining + newline + // data.labelLinkedIn + data.linkedin
                webing + newline + newline + // data.labelWeb + data.web
