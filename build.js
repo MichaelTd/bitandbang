@@ -15,26 +15,28 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-    name: chalk.white('      Michael Tsouchlarakis'),
+    name: chalk.white('    Michael Tsouchlarakis'),
     handle: chalk.white('michaeltd'),
     work: chalk.white('tsouchlarakis@gmail.com'),
     opensource: chalk.white('Gentoo Linux avocado.'),
-    twitter: chalk.gray('https://') + chalk.white('twitter.com/') + chalk.magenta('tsouchlarakismd'),
-    npm: chalk.gray('https://') + chalk.white('npmjs.com/') + chalk.red('~michaeltd'),
-    github: chalk.gray('https://') + chalk.white('github.com/') + chalk.green('michaeltd'),
-    gitlab: chalk.gray('https://') + chalk.white('gitlab.com/') + chalk.green('michaeltd'),
-    linkedin: chalk.gray('https://') + chalk.white('linkedin.com/in/') + chalk.blue('michaeltd'),
-    web: chalk.grey('https://') + chalk.yellow('michaeltd') + chalk.white('.netlify.com/'),
+    twitter: chalk.gray('https://') + chalk.grey('twitter.com/') + chalk.magenta('tsouchlarakismd'),
+    toots: chalk.gray('https://') + chalk.grey('mastodon.technology/') + chalk.white('@') + chalk.magenta('tdm'),
+    npm: chalk.gray('https://') + chalk.grey('npmjs.com/') + chalk.red('~michaeltd'),
+    github: chalk.gray('https://') + chalk.grey('github.com/') + chalk.green('michaeltd'),
+    gitlab: chalk.gray('https://') + chalk.grey('gitlab.com/') + chalk.green('michaeltd'),
+    linkedin: chalk.gray('https://') + chalk.grey('linkedin.com/in/') + chalk.blue('michaeltd'),
+    web: chalk.grey('https://') + chalk.yellow('michaeltd') + chalk.grey('.netlify.com/'),
     npx: chalk.red('npx') + ' ' + chalk.white('michael') + chalk.green('t') + chalk.red('d'),
-    labelWork: chalk.white.bold('       Work:'),
-    labelOpenSource: chalk.white.bold('Open Source:'),
-    labelTwitter: chalk.white.bold('    Twitter:'),
-    labelnpm: chalk.white.bold('        npm:'),
-    labelGitHub: chalk.white.bold('     GitHub:'),
-    labelGitLab: chalk.white.bold('     GitLab:'),
-    labelLinkedIn: chalk.white.bold('   LinkedIn:'),
-    labelWeb: chalk.white.bold('        Web:'),
-    labelCard: chalk.white.bold('       Card:')
+    labelWork: chalk.white.bold('     Work:'),
+    labelOpenSource: chalk.white.bold('     FOSS:'),
+    labelTwitter: chalk.white.bold('  Twitter:'),
+    labelTooting: chalk.white.bold('    Toots:'),
+    labelnpm: chalk.white.bold('      npm:'),
+    labelGitHub: chalk.white.bold('   GitHub:'),
+    labelGitLab: chalk.white.bold('   GitLab:'),
+    labelLinkedIn: chalk.white.bold(' LinkedIn:'),
+    labelWeb: chalk.white.bold('      Web:'),
+    labelCard: chalk.white.bold('     Card:')
 }
 
 // Actual strings we're going to output
@@ -43,6 +45,7 @@ const heading = `${data.name} / ${data.handle}`
 const working = `${data.labelWork}  ${data.work}`
 const opensourcing = `${data.labelOpenSource}  ${data.opensource}`
 const twittering = `${data.labelTwitter}  ${data.twitter}`
+const tooting = `${data.labelTooting}  ${data.toots}`
 const npming = `${data.labelnpm}  ${data.npm}`
 const githubing = `${data.labelGitHub}  ${data.github}`
 const gitlabing = `${data.labelGitLab}  ${data.gitlab}`
@@ -58,7 +61,7 @@ const output = heading + // data.name + data.handle
                webing + newline + // data.labelWeb + data.web
                gitlabing + newline + // data.labelGitLab + data.github
                npming + newline + // data.labelnpm + data.npm
-               twittering + newline + newline + // data.labelTwitter + data.twitter
+               tooting + newline + newline + // data.labelTwitter + data.twitter
                carding // data.labelCard + data.npx
 
 fs.writeFileSync(path.join(__dirname, 'bin/output'), chalk.green(boxen(output, options)))
