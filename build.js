@@ -15,7 +15,7 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-    name: chalk.white('    Michael Tsouchlarakis'),
+    name: chalk.white('     Michael Tsouchlarakis'),
     handle: chalk.white('michaeltd'),
     work: chalk.white('tsouchlarakis@gmail.com'),
     opensource: chalk.white('Gentoo Linux avocado.'),
@@ -27,16 +27,16 @@ const data = {
     linkedin: chalk.gray('https://') + chalk.grey('linkedin.com/in/') + chalk.blue('michaeltd'),
     web: chalk.grey('https://') + chalk.yellow('michaeltd') + chalk.grey('.netlify.com/'),
     npx: chalk.red('npx') + ' ' + chalk.white('michael') + chalk.green('t') + chalk.red('d'),
-    labelWork: chalk.white.bold('     Work:'),
-    labelOpenSource: chalk.white.bold('     FOSS:'),
-    labelTwitter: chalk.white.bold('  Twitter:'),
-    labelTooting: chalk.white.bold('    Toots:'),
-    labelnpm: chalk.white.bold('      npm:'),
-    labelGitHub: chalk.white.bold('   GitHub:'),
-    labelGitLab: chalk.white.bold('   GitLab:'),
-    labelLinkedIn: chalk.white.bold(' LinkedIn:'),
-    labelWeb: chalk.white.bold('      Web:'),
-    labelCard: chalk.white.bold('     Card:')
+    labelWork: chalk.white.bold('      Work:'),
+    labelOpenSource: chalk.white.bold('      FOSS:'),
+    labelTwitter: chalk.white.bold('   Twitter:'),
+    labelTooting: chalk.white.bold('     Toots:'),
+    labelnpm: chalk.white.bold('       npm:'),
+    labelGitHub: chalk.white.bold('    GitHub:'),
+    labelGitLab: chalk.white.bold('    GitLab:'),
+    labelLinkedIn: chalk.white.bold('  LinkedIn:'),
+    labelWeb: chalk.white.bold('       Web:'),
+    labelCard: chalk.white.bold('      Card:')
 }
 
 // Actual strings we're going to output
