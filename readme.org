@@ -1,9 +1,9 @@
 #+author: michaeltd
 #+date: <2020-10-12 Mon>
 
-#+html: <h1 align="center">Hi 👋, I'm michaeltd</h1>
+#+html: <h1 align="center">Hi 👋, I'm michaeltd ☕</h1>
 
-#+html: <h3 align="center">🐧 Open Source Development Avocado 🥑</h3>
+#+html: <h3 align="center">🐧 Open Source 🧡 Development Avocado 🥑</h3>
 
 #+html: <p align='center'>
 #+html: <a href="https://michaeltd.netlify.com/"><img height="30" src="https://github.com/michaeltd/michaeltd/blob/master/blog.png?raw=true"></a>
@@ -15,7 +15,7 @@
 - 🔭 I’m working on *https://localhost/~michaeltd*
 - 🌱 I’m into *Rust, Wasm, deno*
 - 💬 Ask me about *all things bash*
-- 🐧 Here's my business card, ~curl -sSL tinyurl.com/mick-card~
+- 🐧 Here's a business card, ~curl -sSL tinyurl.com/mick-card~
 
 *** Stats and Languages:
   #+html: <a href='https://github.com/michaeltd'><img height='175' align='center' src="https://github-readme-stats.vercel.app/api?username=michaeltd&show_icons=true&theme=dracula" alt="michaeltd" /></a>
