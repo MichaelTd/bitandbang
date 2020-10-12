@@ -25,3 +25,6 @@
 
 *** GitHub Statistics
   #+html: <img src="https://github-readme-stats.vercel.app/api?username=michaeltd&show_icons=true" alt="michaeltd" />
+
+#+html: <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /></a>
+#+html: <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /></a>
