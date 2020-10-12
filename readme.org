@@ -12,9 +12,10 @@
 #+html: <a href="mailto:tsouchlarakis@tutanota.com"><img height="30" src="https://github.com/michaeltd/michaeltd/blob/master/mail.png?raw=true"></a>&nbsp;&nbsp;
 #+html: </p>
 
-- 🔭 I’m working on *blockchain applications*
+- 🔭 I’m working on *https://localhost/~michaeltd*
 - 🌱 I’m into *Rust, Wasm, deno*
 - 💬 Ask me about *all things bash*
+- 🐧 Here's my business card, ~curl -sSL tinyurl.com/mick-card ~
 
 *** Stats and Languages:
   #+html: <a href='https://github.com/michaeltd'><img height='175' align='center' src="https://github-readme-stats.vercel.app/api?username=michaeltd&show_icons=true&theme=dracula" alt="michaeltd" /></a>
