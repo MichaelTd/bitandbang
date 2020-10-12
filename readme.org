@@ -16,8 +16,8 @@
 
 # #+html: <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaeltd" alt="michaeltd" /></a> </p> -->
 
-- 🔭 I’m currently working on *blockchain applications*
-- 🌱 I’m currently into *Rust, Wasm, deno*
+- 🔭 I’m working on *blockchain applications*
+- 🌱 I’m into *Rust, Wasm, deno*
 - 💬 Ask me about *all things bash*
 
 *** Languages and Tools:
