@@ -15,7 +15,7 @@
 - 🔭 I’m working on *https://localhost/~michaeltd*
 - 🌱 I’m into *Rust, Wasm, deno*
 - 💬 Ask me about *all things bash*
-- 🐧 Here's a business card, ~curl -sSL tinyurl.com/mick-card~
+- 🐧 Here's a business card: ~curl -sSL tinyurl.com/mick-card~
 
 *** Stats and Languages:
   #+html: <a href='https://github.com/michaeltd'><img height='175' align='center' src="https://github-readme-stats.vercel.app/api?username=michaeltd&show_icons=true&theme=dracula" alt="michaeltd" /></a>
@@ -23,4 +23,3 @@
 
   #+html: <br /> <br /> <p align="center"> <img src="https://komarev.com/ghpvc/?username=michaeltd&color=blueviolet&style=plastic" alt="michaeltd" /></p>
 
-# #+html: <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaeltd" alt="michaeltd" /></a> </p> -->
