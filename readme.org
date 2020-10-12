@@ -17,8 +17,8 @@
 - 💬 Ask me about *all things bash*
 
 *** Languages and Stats:
-  #+html: <a href='https://github.com/michaeltd'><img height='200' align='center' src="https://github-readme-stats.vercel.app/api?username=michaeltd&show_icons=true&theme=dracula" alt="michaeltd" /></a>
-  #+html: <a href='https://github.com/michaeltd'><img height='200' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltd&layout=compact&theme=dracula" alt="michaeltd" /></a>
+  #+html: <a href='https://github.com/michaeltd'><img height='250' align='center' src="https://github-readme-stats.vercel.app/api?username=michaeltd&show_icons=true&theme=dracula" alt="michaeltd" /></a>
+  #+html: <a href='https://github.com/michaeltd'><img height='250' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltd&layout=compact&theme=dracula" alt="michaeltd" /></a>
 
   #+html: <p align="center"> <img src="https://komarev.com/ghpvc/?username=michaeltd&color=orange&style=plastic" alt="michaeltd" /></p>
 
