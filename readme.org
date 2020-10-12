@@ -3,7 +3,7 @@
 
 #+html: <h1 align="center">Hi 👋, I'm michaeltd</h1>
 
-#+html: <h3 align="center">Open Source Developer Advocate</h3>
+#+html: <h3 align="center">Open Source Development Advocate</h3>
 
 #+html: <p align='center'>
 #+html: <a href="https://michaeltd.netlify.com/"><img height="30" src="https://github.com/michaeltd/michaeltd/blob/master/blog.png?raw=true"></a>
