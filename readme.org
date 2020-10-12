@@ -8,10 +8,10 @@
 
 
 #+html: <p align='center'>
-#+html: <a href="https://www.linkedin.com/in/michaeltd/"><img height="30" src="https://github.com/michaeltd/michaeltd/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-#+html: <a href="https://twitter.com/tsouchlarakismd"><img height="30" src="https://github.com/michaeltd/michaeltd/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-#+html: <a href="mailto:tsouchlarakis@tutanota.com"><img height="30" src="https://github.com/michaeltd/michaeltd/blob/master/mail.png?raw=true"></a>&nbsp;&nbsp;
 #+html: <a href="https://michaeltd.netlify.com/"><img height="30" src="https://github.com/michaeltd/michaeltd/blob/master/blog.png?raw=true"></a>
+#+html: <a href="https://twitter.com/tsouchlarakismd"><img height="30" src="https://github.com/michaeltd/michaeltd/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+#+html: <a href="https://www.linkedin.com/in/michaeltd/"><img height="30" src="https://github.com/michaeltd/michaeltd/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+#+html: <a href="mailto:tsouchlarakis@tutanota.com"><img height="30" src="https://github.com/michaeltd/michaeltd/blob/master/mail.png?raw=true"></a>&nbsp;&nbsp;
 #+html: </p>
 
 #+html: <p align="center"> <img src="https://komarev.com/ghpvc/?username=michaeltd&color=orange&style=plastic" alt="michaeltd" /></p>
@@ -23,4 +23,7 @@
 - 💬 Ask me about *all things bash*
 
 *** Languages and Tools:
-  #+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltd&layout=compact" alt="michaeltd" /><img src="https://github-readme-stats.vercel.app/api?username=michaeltd&show_icons=true" alt="michaeltd" />
+  #+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltd&layout=compact" alt="michaeltd" />
+
+*** GitHub Statistics
+  #+html: <img src="https://github-readme-stats.vercel.app/api?username=michaeltd&show_icons=true" alt="michaeltd" />
