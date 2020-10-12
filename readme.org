@@ -14,7 +14,7 @@
 
 #+html: <p align="center"> <img src="https://komarev.com/ghpvc/?username=michaeltd&color=orange&style=plastic" alt="michaeltd" /></p>
 
-#+html: <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaeltd" alt="michaeltd" /></a> </p> -->
+# #+html: <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaeltd" alt="michaeltd" /></a> </p> -->
 
 - 🔭 I’m currently working on *blockchain applications*
 - 🌱 I’m currently into *Rust, Wasm, deno*
