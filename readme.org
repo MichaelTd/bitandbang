@@ -20,11 +20,6 @@
 - 🌱 I’m into *Rust, Wasm, deno*
 - 💬 Ask me about *all things bash*
 
-*** Languages and Tools:
-  #+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltd&layout=compact" alt="michaeltd" />
+*** Languages and Stats:
+  #+html: <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltd&layout=compact" alt="michaeltd" /><img align='center' src="https://github-readme-stats.vercel.app/api?username=michaeltd&show_icons=true" alt="michaeltd" />
 
-*** GitHub Statistics
-  #+html: <img src="https://github-readme-stats.vercel.app/api?username=michaeltd&show_icons=true" alt="michaeltd" />
-
-#+html: <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /></a>
-#+html: <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /></a>
