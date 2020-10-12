@@ -1,6 +1,8 @@
 #+author: michaeltd
 #+date: <2020-10-12 Mon>
 
+#+html: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
 #+html: <h1 align="center">Hi 👋, I'm michaeltd</h1>
 #+html: <h3 align="center">An Open Source Developer Advocate</h3>
 
