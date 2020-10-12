@@ -8,10 +8,9 @@
 
 #+html: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaeltd" alt="michaeltd" /></a> </p>
 
-#+html: - 🔭 I’m currently working on **blockchain applications**
-
-#+html: - 🌱 I’m currently into **Rust, Wasm, deno**
-#+html: - 💬 Ask me about **all things bash**
+- 🔭 I’m currently working on *blockchain applications*
+- 🌱 I’m currently into *Rust, Wasm, deno*
+- 💬 Ask me about *all things bash*
 
 *** Connect with me:
   #+html: <p align="left"> 
