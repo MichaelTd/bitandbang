@@ -1,7 +1,7 @@
 #+author: michaeltd
 #+date: <2020-10-12 Mon>
 
-#+html: <head><style>body{background-color: rgba(0,0,0,0.5);color: LightGrey;}</style></head>
+#+html: <style>body{background-color: rgba(0,0,0,0.5);color: LightGrey;}</style>
 #+html: <h1 align="center">Hi 👋, I'm michaeltd ☕</h1>
 
 #+html: <h3 align="center">Open Source 🐧 Development 🧡 Avocado 🥑</h3>
